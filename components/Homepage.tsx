@@ -68,7 +68,7 @@ export default function FintechDashboard() {
   const [currentTime, setCurrentTime] = useState(new Date());
   const [isDarkMode, setIsDarkMode] = useState(true);
 
-  const adminPhone = "2347033578281";
+  const adminPhone = "2348145882412";
 
   // Initialize with empty strings to prevent hydration mismatch
   const [userData, setUserData] = useState({
@@ -551,7 +551,7 @@ export default function FintechDashboard() {
       </Card>
 
       {/* account number snap cards  */}
-      
+
       <SnapCards />
 
       <div

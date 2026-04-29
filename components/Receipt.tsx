@@ -140,7 +140,7 @@ export default function TransactionReceipt({
 
         await Share.share({
           title: "Transaction Receipt",
-          text: `Receipt for ${data.type} to ${data.recipient}`,
+          text: `Receipt for ${data.provider} to ${data.recipient}`,
           url: result.uri,
           dialogTitle: "Share Receipt",
         });
