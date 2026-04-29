@@ -1,4 +1,4 @@
-package com.fix.aigsolution;
+package com.fixtech.aigsolution;
 
 import android.os.Bundle;
 import android.graphics.Color;

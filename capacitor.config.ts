@@ -1,7 +1,7 @@
 import type { CapacitorConfig } from "@capacitor/cli";
 
 const config: CapacitorConfig = {
-  appId: "com.fix.aigsolution",
+  appId: "com.fixtech.aigsolution",
   appName: "Aigsolution",
   webDir: "out",
   plugins: {
